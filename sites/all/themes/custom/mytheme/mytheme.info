@@ -1,0 +1,13 @@
+name = My custom theme
+description = Custom theme for testing
+core = 7.x
+
+screenshot = screenshot.png
+
+regions[header] = Header
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = Left Sidebar
+regions[sidebar_second] = Right Sidebar
+regions[footer] = Footer
